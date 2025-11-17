@@ -17,8 +17,7 @@ This Flask application provides a simple REST API to retrieve full verb conjugat
 1. **Clone the repository:**
 
 ```bash
-git clone <repository-url>
-cd <ConjugationsAPI>
+git clone https://github.com/antoniamstr1/ConjugationsAPI.git
 ```
 
 2. **Create a Python virtual environment in that folder:**
